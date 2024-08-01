@@ -1,4 +1,4 @@
-### Line Following and Obstacle Avoiding Robot Project
+## Line Following and Obstacle Avoiding Robot Project
 
 The Robot Project is a group project in which a team is working together to create a robot capable of driving down a line, including turning left or right, detecting an intersection, and even obstacles. The project was conducted using a micro:bit controller.
 
