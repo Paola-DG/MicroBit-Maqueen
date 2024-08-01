@@ -10,9 +10,13 @@ This was a true learning experience, as we had to learn how to program the micro
 > Youtube Link to see the project: https://www.youtube.com/watch?v=NTbyGxd6EuU
 
 Florida International University
+
 EGN 1002 - Engineering Orientation
+
 Summer 2024
+
 Instructor: Nonnarit O-Larnnithipong
+
 Team: Andres Fernandez, Michael Perez, and Paola Dorado G.
 
 ## Use as Extension
