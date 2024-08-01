@@ -1,3 +1,13 @@
+### Line Following and Obstacle Avoiding Robot Project
+The Robot Project is a group project in which a team is working together to create a robot capable of driving down a line, including turning left or right, detecting an intersection, and even obstacles. The project was conducted using a micro:bit controller.
+
+The purpose of this project was to optimize the micro:bit code so that thr Macqueen robot is able to complete the circuit and reach the finish line. 
+
+This was a true learning experience, as we had to learn how to program the micro:bit controller and solve different problems in order to get the robot to function properly. 
+
+
+Youtube Link to see the project: https://www.youtube.com/watch?v=NTbyGxd6EuU
+
 
 > Open this page at [https://paola-dg.github.io/microbit-maqueen/](https://paola-dg.github.io/microbit-maqueen/)
 
@@ -22,3 +32,10 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+Florida International University
+EGN 1002 - Engineering Orientation
+Summer 2024
+Instructor: Nonnarit O-Larnnithipong
+Team: Andres Fernandez, Michael Perez, and Paola Dorado G.
