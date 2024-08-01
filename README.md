@@ -1,4 +1,5 @@
 ### Line Following and Obstacle Avoiding Robot Project
+
 The Robot Project is a group project in which a team is working together to create a robot capable of driving down a line, including turning left or right, detecting an intersection, and even obstacles. The project was conducted using a micro:bit controller.
 
 The purpose of this project was to optimize the micro:bit code so that thr Macqueen robot is able to complete the circuit and reach the finish line. 
