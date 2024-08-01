@@ -9,9 +9,6 @@ This was a true learning experience, as we had to learn how to program the micro
 
 > Youtube Link to see the project: https://www.youtube.com/watch?v=NTbyGxd6EuU
 
-
-> Open this page at [https://paola-dg.github.io/microbit-maqueen/](https://paola-dg.github.io/microbit-maqueen/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
