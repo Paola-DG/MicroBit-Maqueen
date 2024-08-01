@@ -9,6 +9,12 @@ This was a true learning experience, as we had to learn how to program the micro
 
 > Youtube Link to see the project: https://www.youtube.com/watch?v=NTbyGxd6EuU
 
+Florida International University
+EGN 1002 - Engineering Orientation
+Summer 2024
+Instructor: Nonnarit O-Larnnithipong
+Team: Andres Fernandez, Michael Perez, and Paola Dorado G.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -30,10 +36,3 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
-
-Florida International University
-EGN 1002 - Engineering Orientation
-Summer 2024
-Instructor: Nonnarit O-Larnnithipong
-Team: Andres Fernandez, Michael Perez, and Paola Dorado G.
