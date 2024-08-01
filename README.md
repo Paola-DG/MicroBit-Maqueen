@@ -7,7 +7,7 @@ The purpose of this project was to optimize the micro:bit code so that thr Macqu
 This was a true learning experience, as we had to learn how to program the micro:bit controller and solve different problems in order to get the robot to function properly. 
 
 
-Youtube Link to see the project: https://www.youtube.com/watch?v=NTbyGxd6EuU
+> Youtube Link to see the project: https://www.youtube.com/watch?v=NTbyGxd6EuU
 
 
 > Open this page at [https://paola-dg.github.io/microbit-maqueen/](https://paola-dg.github.io/microbit-maqueen/)
