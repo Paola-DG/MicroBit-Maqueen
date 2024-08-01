@@ -7,6 +7,7 @@ The purpose of this project was to optimize the micro:bit code so that thr Macqu
 This was a true learning experience, as we had to learn how to program the micro:bit controller and solve different problems in order to get the robot to function properly. 
 
 
+
 Florida International University
 
 EGN 1002 - Engineering Orientation
